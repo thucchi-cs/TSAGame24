@@ -2,6 +2,8 @@
 
 This video game was made for the purpose of the 2024 TSA Video Game competition. All work is originally made by Tracy Do, Tyler Kuschel, and Lexi Milam during the 2023-24 school year. The game was made using Pygame and was built on the web using Pygbag. The music was made using Musescore.
 
+Game can also be found at https://thucchi-cs.itch.io/game
+
 ## Placements and results
 **Regionals** - 1st place
 
